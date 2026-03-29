@@ -34,7 +34,7 @@ Many students face confusion while choosing a career path due to lack of guidanc
 
 ## ▶️ How to Run the Project
 
-### Step 1: Install dependencies**
+### Step 1: Install dependencies
 pip install scikit-learn
 
 ### Step 2: Run the program
