@@ -16,11 +16,12 @@ Many students face confusion while choosing a career path due to lack of guidanc
 
 ## 🧠 Concepts Used
 - Artificial Intelligence (Rule-Based System)
+- Knowledge representation
+- Heuristic approach
 - Machine Learning (similarity-based classification)
 - Feature Engineering
 - Decision Making
-- Confidence Calculation
-
+- Confidence Calculation (Basic probability)
 ---
 
 ## ⚙️ How It Works
