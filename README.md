@@ -1,4 +1,4 @@
-* AI Career Recommendation System
+# **AI Career Recommendation System**
 
 ## 📌 Overview
 This project is an AI-based Career Recommendation System that suggests suitable career paths based on a user's skills and interests.
